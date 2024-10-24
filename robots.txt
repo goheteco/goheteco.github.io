@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://goheteco.github.io/sitemap/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/KRo/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/XCV/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/yUM/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/qDE/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/vVq/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/lAC/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/BbZ/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/kyQ/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/hwW/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/XqC/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/PTO/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/bFO/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/Dfn/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/fwX/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/BTd/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/wJo/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/cMU/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/pcM/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/FuG/sitemap_index.goheteco
+Sitemap: https://goheteco.github.io/CPY/sitemap_index.goheteco
